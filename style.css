@@ -34,6 +34,9 @@ body{
     color: black;
     margin-right: 15px;
 }
+.img-project{
+    border-radius: 15px;
+}
 .section-1{
     position: inherit;
     margin: 140px 15px 15px 15px;
