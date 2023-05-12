@@ -12,6 +12,7 @@ body{
     width:100%;
     box-shadow:0px 4px 3px rgba(143, 141, 141, 0.5);
     background: #7bd8ca;
+    align-items: center;
 
 }
 .nav figure{
